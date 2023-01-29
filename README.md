@@ -1,5 +1,8 @@
+![logo](https://github.com/Abdev1205/Abdev1205/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
 <h3 align="center">Passionate Web Developer who wants to explore every Tech Fields</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/Abdev1205/Abdev1205/blob/main/ezgif.com-gif-maker%20(16).gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdev1205&label=Profile%20views&color=0e75b6&style=flat" alt="abdev1205" /> </p>
 

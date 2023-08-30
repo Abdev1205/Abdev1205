@@ -1,4 +1,4 @@
-![logo](https://github.com/Abdev1205/Abdev1205/blob/main/github%20banner.png)
+![logo](https://i.postimg.cc/PqdY1486/Github-banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
 <h3 align="center">Passionate Web Developer who wants to explore every Tech Fields</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Abdev1205/Abdev1205/blob/main/ezgif.com-gif-maker%20(16).gif">

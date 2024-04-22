@@ -1,26 +1,106 @@
 ![logo](https://i.postimg.cc/PqdY1486/Github-banner.png)
+
 <h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
 <h3 align="center">Passionate Web Developer who wants to explore every Tech Fields</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Abdev1205/Abdev1205/blob/main/ezgif.com-gif-maker%20(16).gif">
-
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/VNM9stvR/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdev1205&label=Profile%20views&color=0e75b6&style=flat" alt="abdev1205" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abhaymishra.tech/](https://abhaymishra.tech/)
+- 🌱 I’m currently learning New Technology
+- 👨‍💻 All of my projects are available at https://abhaymishra.tech/
+- 💬 I'm Abhay Mishra I am a Mern-Stack Web developer from Korba Chhattisgarh India. I am currently Persuing B Tech CSE core from Vellore Institute Of Technology Bhopal. I am very passionate about improving my coding skills & developing applications & websites. I build WebApps and Websites using MERN Stack. I am Working hard to improve my skills. I Love to build Unique and Needy Projects.
+- 📄 Know about my experiences https://drive.google.com/file/d/1xhDSCDep2Fn8STrkhF9YxCuNFi1fp2PS/view
 
-- 💬 Ask me about **I'm Abhay Mishra I am a Mern-Stack Web developer from Korba Chhattisgarh India. I am currently Persuing B Tech CSE core from Vellore Institute Of Technology Bhopal. I am very passionate about improving my coding skills & developing applications & websites. I build WebApps and Websites using MERN Stack. I am Working hard to improve my skills. I Love to build Unique and Needy Projects.**
+# 🌐 Socials:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nuH7i3ljNA-wgQHGgSDBpIqwV7CYa8ul/view](https://drive.google.com/file/d/1nuH7i3ljNA-wgQHGgSDBpIqwV7CYa8ul/view)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dev_abhaymishra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-mishra-9669711b5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/Abideas) 
+<p>
+  <a href="https://www.linkedin.com/in/abhay-mishra-9669711b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://abhaymishra.tech/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <a href="mailto:abhaym1205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1xhDSCDep2Fn8STrkhF9YxCuNFi1fp2PS/view" target="_blank"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  
+ 
+</p>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdev1205&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="abdev1205" /></p>
+<h3 align="left">Languages and Tools:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdev1205&show_icons=true&locale=en" alt="abdev1205" /></p>
+- Frontend
+<p align="left" gap="1rem" style="margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=ts" style="margin-right: 0.5rem; margin-top: 0.5rem;" /> 
+    <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=react" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=redux" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=materialui" style="margin-top: 0.5rem;" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdev1205&" alt="abdev1205" /></p>
+- Backend
+<p align="left" style="margin-right: 0.5rem; margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=expressjs" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=flask" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=golang" style="margin-top: 0.5rem;" />
+</p>
 
+- Languages
+<p align="left" style="margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=cpp" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=py" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=java" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=golang" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=r" style="margin-top: 0.5rem;" />
+</p>
+
+- Database
+<p align="left" style="margin-top: 0.5rem; display: flex; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=postgresql" style="margin-top: 0.5rem;" />
+</p>
+
+- Cloud Servers
+<p align="left" style="margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=azure" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=aws" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=gcp" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=firebase" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" style="margin-top: 0.5rem;" />
+</p>
+
+- Tools
+<p align="left" style="margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=git" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=github" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=docker" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=figma" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=linux" style="margin-top: 0.5rem;" />
+</p>
+
+<p href="https://github.com/Abdev1205">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdev1205&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Abhay's github stats"/>
+</p>
+
+<p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdev1205&theme=algolia" width="100%" />
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom:1rem; ">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdev1205&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdev1205&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdev1205&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem " align="left" title="🦉 Night owl" />
+</div>
+
+</br></br>
+</br></br>
+
+[![Abhay's github streak](https://github-readme-streak-stats.herokuapp.com/?user=abdev1205&theme=algolia&card_width=1000)](https://github.com/abdev1205) </br></br>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=abdev1205&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/abdev1205) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abdev1205&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/abdev1205)
+
+</div>

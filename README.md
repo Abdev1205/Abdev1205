@@ -83,7 +83,8 @@
 </p>
 
 <p href="https://github.com/Abdev1205">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdev1205&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Abhay's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdev1205&show_icons=true&line_height=30&theme=algolia" alt="Abhay's github stats"/>
+  
 </p>
 
 <p>

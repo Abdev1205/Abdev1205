@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/PqdY1486/Github-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Abhay Mishra</h1>
 <h3 align="center">Passionate Web Developer who wants to explore every Tech Fields</h3>

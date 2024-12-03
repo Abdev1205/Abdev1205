@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdev1205&label=Profile%20views&color=0e75b6&style=flat" alt="abdev1205" /> </p>
 
 - 🌱 I’m currently learning New Technology
-- 👨‍💻 All of my projects are available at https://abhaymishra.tech/
+- 👨‍💻 All of my projects are available at https://abhaymishra.in/
 - 💬 I'm Abhay Mishra I am a Mern-Stack Web developer from Korba Chhattisgarh India. I am currently Persuing B Tech CSE core from Vellore Institute Of Technology Bhopal. I am very passionate about improving my coding skills & developing applications & websites. I build WebApps and Websites using MERN Stack. I am Working hard to improve my skills. I Love to build Unique and Needy Projects.
 - 📄 Know about my experiences https://drive.google.com/file/d/1xhDSCDep2Fn8STrkhF9YxCuNFi1fp2PS/view
 
